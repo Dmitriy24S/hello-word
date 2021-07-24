@@ -1,2 +1,7 @@
 # hello-word
-Just my first repository
+
+Hello!
+
+_My name is **Dmitriy** and this is my first repository._
+
+See you around!
